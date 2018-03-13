@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Video Game Quiz</string>
+    <!-- activity_main-->
+    <!-- Title -->
+    <string name="title">Video Game Quiz</string>
+    <string name="tagline">Test your Might !</string>
+    <!-- EditText hint -->
+    <string name="your_hint">Your Answer</string>
+    <!-- Send Button -->
+    <string name="send_btn">Send</string>
+    <!-- Start Button -->
+    <string name="start_btn">Start</string>
+
+    <!-- question_layout-->
+    <!-- question 01-->
+    <string name="question_name_01">Question 01</string>
+    <string name="question_01">Select two Street Fighter characters</string>
+    <string name="q1_answer_01">Kirby</string>
+    <string name="q1_answer_02">Ryu</string>
+    <string name="q1_answer_03">SubZero</string>
+    <string name="q1_answer_04">Chun-Li</string>
+    <!-- question 02-->
+    <string name="question_name_02">Question 02</string>
+    <string name="question_02">Who is the Nintendo mascot ?</string>
+    <string name="q2_answer_01">Snake</string>
+    <string name="q2_answer_02">Ulala</string>
+    <string name="q2_answer_03">Sonic</string>
+    <string name="q2_answer_04">Mario</string>
+    <!-- question 03-->
+    <string name="question_name_03">Question 03</string>
+    <string name="question_03">Who is the heroin of Tomb Raider ?</string>
+    <string name="q3_answer_01">Jill Valentine</string>
+    <string name="q3_answer_02">Samus Aran</string>
+    <string name="q3_answer_03">Lara Croft</string>
+    <string name="q3_answer_04">Peach</string>
+    <!-- question 04-->
+    <string name="question_name_04">Question 04</string>
+    <string name="question_04">Name the game starring Sarah Kerrigan</string>
+    <string name="q4_answer_01">Pong</string>
+    <string name="q4_answer_02">Starcraft</string>
+    <string name="q4_answer_03">Pac-Man</string>
+    <string name="q4_answer_04">Portal</string>
+    <!-- question 05-->
+    <string name="question_name_05">Question 05</string>
+    <string name="question_05">Name this game.</string>
+
+    <!-- question 06-->
+    <string name="question_name_06">Question 06</string>
+    <string name="question_06">In the Mortal Kombat series, you can perform :</string>
+    <string name="q6_answer_01">Fatalities</string>
+    <string name="q6_answer_02">Formalities</string>
+    <string name="q6_answer_03">Brutalities</string>
+    <string name="q6_answer_04">Absurdities</string>
+
+    <!-- question 07-->
+    <string name="question_name_07">Question 07</string>
+    <string name="question_07">What is the latest Nintendo gaming console ?</string>
+
+    <!-- Submit button-->
+    <string name="submit_btn">Submit !</string>
+
+
+    <!-- score_layout-->
+    <!-- score texts -->
+    <string name="score_text">Your Score: </string>
+    <!-- Share button-->
+    <string name="share_btn">Share it !</string>
+    <!-- Play again button-->
+    <string name="reset_btn">Play again !</string>
+</resources>

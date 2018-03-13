@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">#263238</item>
+    </style>
+
+    <style name="QuestionTitle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="QuestionText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginVertical">16dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="ImageSettings">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:layout_marginVertical">16dp</item>
+    </style>
+
+    <style name="Layout_one">
+        <item name="android:background">#4DB6AC</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="Layout_two">
+        <item name="android:background">#FFEE58</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="Layout_three">
+        <item name="android:background">#FF8A65</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:fontFamily">@font/stan0757</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="answers">
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

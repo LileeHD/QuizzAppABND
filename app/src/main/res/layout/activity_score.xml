@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.quizzappabnd.ScoreActivity">
+
+    <ImageView
+        android:id="@+id/image_score"
+        style="@style/ImageSettings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textColor="#757575"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/reset_btn"
+            style="@style/Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/reset_btn" />
+    </LinearLayout>
+</LinearLayout>
